@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrazouzz
 - 👀 I’m interested in useing code as a magic stick
-- 🌱 I’m currently learning python and some other languages
+- 🌱 I’m currently developing websites using Django and ReactJS
 - 📫 Reach me on Instagram, Twitter, Facebook, or YouTube at AmrAzouzz
 
 <!---
