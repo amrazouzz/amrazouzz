@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amrazouzz
 - 👀 I’m interested in useing code as a magic wand
 - 🌱 I’m currently developing websites using Django and ReactJS
+- 📱 I Use ReactJs to build cross-platform mobile applications.
 - 📫 Reach me on Instagram, Twitter, Facebook, or YouTube at AmrAzouzz
 
 <!---
